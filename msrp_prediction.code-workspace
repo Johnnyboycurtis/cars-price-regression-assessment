@@ -4,5 +4,5 @@
 			"path": "."
 		}
 	],
-	"settings": {"python.defaultInterpreterPath": "/home/jonathan/miniconda3/envs/ml/bin/python"}
+	"settings": {"python.defaultInterpreterPath": "/home/jonathan/miniconda3/envs/mldev/bin/python"}
 }
